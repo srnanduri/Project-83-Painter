@@ -1,0 +1,33 @@
+.body_background {
+    background-image: url("https://share.sketchpad.app/22/187-ef69-5e7a31.png");
+    background-position: center;
+    background-size: cover;
+  }
+  header
+  {
+      background-color: rgb(164, 255, 250);
+      color: rgb(0, 47, 255); 
+      font-size: 40px;
+      font-family: fantasy;
+  }
+  #myCanvas
+  {
+      cursor: crosshair;
+      border-width:10px;
+      background-color: rgb(255, 255, 255); 
+      border-style:ridge;
+      border-color: rgb(0, 0, 202);
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
